@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+*.log
+run.ps1
+
+.DS_Store
